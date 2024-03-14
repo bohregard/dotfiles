@@ -22,5 +22,5 @@ fi
 
 if [[ ! -h "$TMUX" ]]; then
     echo "=> Symlinking .tmux.conf to $TMUX"
-ln -s "$(pwd)/.tmux.conf" "$TMUX"
+ln -s "$(pwd)/tmux.conf" "$TMUX"
 fi
