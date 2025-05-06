@@ -10,3 +10,6 @@
 [submodule "oh-my-zsh/custom/plugins/zsh-you-should-use"]
 	path = oh-my-zsh/custom/plugins/zsh-you-should-use
 	url = https://github.com/MichaelAquilina/zsh-you-should-use.git
+[submodule "oh-my-zsh/custom/plugins/zsh-bat"]
+	path = oh-my-zsh/custom/plugins/zsh-bat
+	url = https://github.com/fdellwing/zsh-bat.git

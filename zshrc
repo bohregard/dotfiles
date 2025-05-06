@@ -16,6 +16,7 @@ plugins=(
   zsh-autosuggestions
   zsh-syntax-highlighting
   zsh-you-should-use
+  zsh-bat
 )
 
 source $ZSH/oh-my-zsh.sh
